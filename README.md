@@ -2,7 +2,7 @@
 <h3 align="center">Process Engineer | Chemical Engineering M.S. @ Florida State University</h3>
 
 <p align="center">
-  <img src="./banner.png" alt="Vinay Chintala Banner" width="50%"/>
+  <img src="./Background.png" alt="Vinay Chintala Banner" width="90%"/>
 </p>
 
 <p align="center">
