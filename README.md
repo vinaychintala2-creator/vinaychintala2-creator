@@ -19,7 +19,7 @@
 
 ### 🧪 SUMMARY
 
-I'm a Chemical Engineering M.S. student at Florida State University with hands-on experience spanning wastewater treatment, petroleum operations, pharmaceutical manufacturing, and compliance-style technical documentation. My background bridges process safety, environmental compliance, and quality assurance with strong technical reporting and data analysis skills — I like turning messy plant data and process constraints into clear, defensible engineering decisions.
+I'm a Chemical Engineering M.S. student at Florida State University with hands-on experience spanning wastewater treatment, petroleum operations, pharmaceutical manufacturing, and compliance-style technical documentation. My background bridges process safety, environmental compliance, and quality assurance with strong technical reporting and data analysis skills. I like turning messy plant data and process constraints into clear, defensible engineering decisions.
 
 Currently exploring heavy oil recovery and refinery integration strategy, with prior work reducing cycle times and water usage in pharmaceutical batch manufacturing, tuning control models in MATLAB, and reviewing gas terminal operations processing 7 million cubic meters/day.
 
