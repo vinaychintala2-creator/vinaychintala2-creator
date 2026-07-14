@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Chintala</h1>
-<h3 align="center">Process Engineer | Chemical Engineering M.S. @ Florida State University</h3>
+<h3 align="center">Process Engineer | Chemical Engineering </h3>
 
 <p align="center">
   <img src="./Background.png" alt="Vinay Chintala Banner" width="90%"/>
