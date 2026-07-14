@@ -88,19 +88,34 @@ Currently exploring heavy oil recovery and refinery integration strategy, with p
 
 ### 🚀 FEATURED PROJECT
 
-#### Sodium Lauryl Sulfate Plant Design
-*Jun 2022 – Apr 2023*
+### 🚀 FEATURED PROJECTS
 
-Designed a **150 kg/day** SLS plant covering sulphonation, neutralization, and spray drying processes.
+#### 🏭 Sodium Lauryl Sulfate Plant Design
 
-- ⚗️ Performed material & energy balances to size reactors, storage tanks, and centrifugal pumps
-- 🔥 Specified jacketed reactor design using heat-transfer area, shell thickness, and agitator requirements
-- 💰 Projected **$4.56M** capital investment with a **2.36-year** payback period
-- 📍 Site selection analysis for Visakhapatnam, India
+Designed a **150 kg/day** SLS plant covering sulphonation, neutralization, spray drying, equipment sizing, and economic evaluation.
 
-**Other notable work:**
-- **Heavy Oil Recovery & Refinery Integration Study** — built a 3-stage scoring framework comparing steam injection and sand-assisted recovery routes across shallow, deep, and remote oil-field cases
-- **Food Dye Diffusion Analysis** — led a 5-member team modeling radial diffusion in water/gelatin, reaching 89% (gelatin) and 77% (water) model accuracy using ImageJ and MATLAB
+- Performed material and energy balances
+- Sized reactors, storage tanks, and centrifugal pumps
+- Estimated **$4.56 million** capital investment
+- Calculated a **2.36-year** payback period
+
+[📄 View Complete SLS Project Report](https://drive.google.com/file/d/1Gvsrfwa9Oaqdxexh4NjqaVnk73zrbEhX/view?usp=sharing)
+
+---
+
+#### 🛢️ Heavy Oil Recovery & Refinery Integration
+
+Developed a three-stage screening framework comparing recovery methods based on reservoir feasibility, surface constraints, logistics, and refinery compatibility.
+
+[📄 View Complete Heavy Oil Project Report](https://drive.google.com/file/d/1MC2HqGoiyraiCbOwrtZrd5APleZhwfXe/view?usp=sharing)
+
+---
+
+#### 🌊 Food Dye Diffusion Analysis
+
+Led a five-member team modeling radial diffusion in water and gelatin using ImageJ and MATLAB.
+
+[📄 View Complete Transport Project Report](https://drive.google.com/file/d/1IL_6RKJPeuoRWw6CArouquDKh9oDyfRP/view?usp=sharing)
 
 ---
 
