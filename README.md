@@ -88,8 +88,6 @@ Currently exploring heavy oil recovery and refinery integration strategy, with p
 
 ### 🚀 FEATURED PROJECT
 
-### 🚀 FEATURED PROJECTS
-
 #### 🏭 Sodium Lauryl Sulfate Plant Design
 
 Designed a **150 kg/day** SLS plant covering sulphonation, neutralization, spray drying, equipment sizing, and economic evaluation.
