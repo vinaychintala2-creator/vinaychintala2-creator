@@ -2,7 +2,7 @@
 <h3 align="center">Process Engineer | Chemical Engineering </h3>
 
 <p align="center">
-  <img src="./Background.png" alt="Vinay Chintala Banner" width="90%"/>
+  <img src="./banner_teal.png" alt="Vinay Chintala Banner" width="90%"/>
 </p>
 
 <p align="center">
